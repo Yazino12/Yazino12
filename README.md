@@ -1,16 +1,19 @@
-### Hi there 👋
+<img width=500 height=250 src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif">
 
-<!--
-**Yazino12/Yazino12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey there! I'm Yasin Warsame 👋
+- :computer: Learning new technologies and developing Software Solutions.
+- :ok_man: Studying full-stack software development at Microverse.
+- :rocket: Love to watch documentary shows and movies.
+- :email: You can reach me via mail: yasin.elsharawi23@gmail.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect With Me
+<a href="https://twitter.com/yasino24"><img width="65px" src="https://img.icons8.com/doodle/2x/twitter--v1.png"><a href="https://www.linkedin.com/in/yasin-warsame-a4176217a/"><img width="65px" src="https://img.icons8.com/doodle/2x/linkedin--v2.png"><a href="https://instagram.com/yazinz22"><img width="65px" src="https://img.icons8.com/doodle/2x/instagram-new.png">
+
+[![Yasin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yazino12&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Yazino12)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yazino12&theme=tokyonight)](https://github.com/Yazino12)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yazino12&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/Yazino12)
+
+
+  
+  
