@@ -1,6 +1,6 @@
-<img width=500 height=250 src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif">
-
 ## Hey there! I'm Yasin Warsame 👋
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
+
 - :computer: Learning new technologies and developing Software Solutions.
 - :ok_man: Studying full-stack software development at Microverse.
 - :rocket: Love to watch documentary shows and movies.
