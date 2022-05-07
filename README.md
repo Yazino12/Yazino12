@@ -1,5 +1,5 @@
 ## I'm Yasin 👋
-<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="240" />
 
 - :computer: Learning new technologies and developing Software Solutions.
 - :ok_man: Studying full-stack software development at Microverse.
