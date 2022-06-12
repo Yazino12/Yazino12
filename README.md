@@ -1,4 +1,4 @@
-## I'm Yasin 👋
+## Howdy, I'm Yasin 👋
 
 - :computer: Learning new technologies and developing Software Solutions.
 - :ok_man: Studying full-stack software development at Microverse.
