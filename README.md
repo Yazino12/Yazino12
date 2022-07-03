@@ -2,7 +2,7 @@
 
 - :computer: Learning new technologies and developing Software Solutions
 - :ok_man: Studying full-stack software development at Microverse
-- 💪: Love to sustain a healthy life style.
+- 💪: Love to sustain a healthy life style
 - :email: You can reach me via mail: yasin.elsharawi23@gmail.com.
 
 <br />
