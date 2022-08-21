@@ -1,8 +1,9 @@
 ## I'm Yasin 👋
 
 - :computer: Learning new technologies and developing Software Solutions.
-- :ok_man: Studying full-stack software development at Microverse.
-- 💪: Love to sustain a healthy life style.
+- :ok_man: Currently strengthening my full-stack software development Skills.
+- ⛑ Regularly contributing to Open-Source.
+- 💪🏽 Love to sustain a healthy life Style.
 - :email: You can reach me via mail: yasin.elsharawi23@gmail.com.
 
 <br />
