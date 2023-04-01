@@ -4,7 +4,7 @@
 - :ok_man: Currently strengthening my full-stack software development Skills.
 - ⛑ Regularly contributing to open-source.
 - 💪🏽 Love to sustain a healthy life Style.
-- :email: You can reach me via mail: yasin.elsharawi23@gmail.com
+- :email: You can reach me via mail: yasin.elsharawi23@gmail.com.
 <br />
   
 ### Languages and Tools
